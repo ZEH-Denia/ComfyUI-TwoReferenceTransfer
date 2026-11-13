@@ -1,0 +1,5 @@
+[project]
+name = "comfyui-two-reference-transfer"
+version = "0.1.0"
+description = "Two-reference character, pose, outfit and scene transfer with local or DSH image analysis."
+requires-python = ">=3.10"
